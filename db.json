@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "iphone X",
+      "quantity": 500,
+      "price": 10000,
+      "description": "Açıklama 1"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "samsung s10",
+      "quantity": 500,
+      "price": 8500,
+      "description": "Açıklama 2"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "Lenovo Thinkpad",
+      "quantity": 100,
+      "price": 8500,
+      "description": "Açıklama 3"
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "Macbook Mini",
+      "quantity": "50",
+      "price": 10500,
+      "description": "Açıklama 4"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Phones",
+      "seoUrl": "phones"
+    },
+    {
+      "id": 2,
+      "categoryName": "Computers",
+      "seoUrl": "computers"
+    }
+  ]
+}
